@@ -1,4 +1,4 @@
-> Built with AI and I dont give a fuck about it. Just use,
+> Built with AI and I dont give a fuck about it. Just use.
 
 # Zvuk.com Downloader
 
@@ -53,3 +53,4 @@ python main.py
 
 ## 📝 Лицензия
 Распространяется «как есть». Код открыт для изучения принципов работы GraphQL API и имитации сетевых запросов.
+
